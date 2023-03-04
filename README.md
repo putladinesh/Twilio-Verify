@@ -5,7 +5,7 @@ Without the hassle of creating flows in your Mendix app to generate one-time pas
 Validate users via SMS and popular channels such as call and WhatsApp to decrease fraud with a fully-managed API that handles the heavy lifting.
 
 # Dependencies: 
- Encryption Module (https://marketplace.mendix.com/link/component/1011)
+ [Encryption Module](https://marketplace.mendix.com/link/component/1011)
 
 # Configuration:
 
